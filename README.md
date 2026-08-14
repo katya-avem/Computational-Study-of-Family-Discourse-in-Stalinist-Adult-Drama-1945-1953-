@@ -1,4 +1,4 @@
-# Computational-Study-of-Family-Discourse-in-Stalinist-Adult-Drama-1945-1953-
+# Computational-Study-of-Family-Discourse-in-Stalinist-Adult-Drama-1945-1953
 
 ## Overview
 
