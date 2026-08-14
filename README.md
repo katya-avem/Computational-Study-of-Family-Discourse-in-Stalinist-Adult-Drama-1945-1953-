@@ -36,3 +36,21 @@ The analysis combines:
 - TF-IDF analysis
 - gender-based Z-score analysis
 - topic modelling
+
+Corpus
+  ↓
+TEI encoding
+  ↓
+Character annotation
+  ↓
+13 ideological character types
+  ↓
+TF-IDF
+  ↓
+Gender annotation
+  ↓
+Z-score analysis
+  ↓
+Topic modelling
+  ↓
+Interpretation
