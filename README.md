@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains research materials accompanying a DH2026
+This repository contains research materials accompanying a DH2026 (Daejeon, 2026)
 presentation on the ideological functions of family and kinship in
 late Stalinist Soviet drama.
 
