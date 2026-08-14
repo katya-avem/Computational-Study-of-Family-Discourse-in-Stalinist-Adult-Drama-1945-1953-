@@ -27,6 +27,8 @@ staged between 1945 and 1953.
 The texts were digitised from printed editions, corrected,
 encoded according to TEI principles, and lemmatised.
 
+The original corpus consists of 46 Soviet plays published between 1945 and 1953. The full texts are not included in this repository due to copyright restrictions.
+
 ## Methods
 
 The analysis combines:
@@ -36,21 +38,3 @@ The analysis combines:
 - TF-IDF analysis
 - gender-based Z-score analysis
 - topic modelling
-
-Corpus
-  ↓
-TEI encoding
-  ↓
-Character annotation
-  ↓
-13 ideological character types
-  ↓
-TF-IDF
-  ↓
-Gender annotation
-  ↓
-Z-score analysis
-  ↓
-Topic modelling
-  ↓
-Interpretation
