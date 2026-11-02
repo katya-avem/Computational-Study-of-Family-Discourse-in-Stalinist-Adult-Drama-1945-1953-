@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Late Stalinist Soviet Drama Corpus (1945–1953)"
+message: "If you use the annotations, metadata, or code provided in this repository, please cite this repository."
+type: dataset
+authors:
+  - family-names: "Kolevatova"
+    given-names: "Ekaterina"
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+abstract: >
+  A digitised, TEI-encoded, lemmatised, and annotated corpus of
+  46 Soviet plays written for adult audiences during the late
+  Stalinist period (1945–1953), comprising 454,235 tokens.
+keywords:
+  - Soviet drama
+  - late Stalinism
+  - Russian literature
+  - digital humanities
+  - TEI
+  - corpus linguistics
+  - computational literary studies
+license: The original literary works included in this corpus remain subject to
+copyright held by their respective rights holders.
+The TEI encoding, annotations, and metadata created for this project are
+licensed under a Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
