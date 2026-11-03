@@ -61,12 +61,13 @@ The grid search results were compared to assess the stability and interpretabili
 The repository contains the following files and directories:
 
 - **`data/`** — corpus metadata and documentation:
-  - **`metadata.csv`** — metadata for all plays included in the dissertation corpus, covering all four subcorpora (children's and adult drama, late Stalinist period and Thaw).
+  - **`metadata.csv`** — metadata for all plays included in the dissertation corpus, covering all four subcorpora.
   - **`README.md`** — documentation describing the corpus, its composition, sources, and organisation.
 
-- **`presentation/`** — slides from the presentation *Computational Study of Family Discourse in Stalinist Adult Drama (1945–1953)*, delivered by Ekaterina Kolevatova at the DH2026 conference in Daejeon, South Korea.
+- **`presentation/`** — slides from the presentation *Computational Study of Family Discourse in Stalinist Adult Drama (1945–1953)*, delivered at the DH2026 conference in Daejeon, South Korea.
 
 - **`src/`** — source code and scripts used for corpus preparation and computational analysis:
+  - **`txt_to_xml.py`** — script for converting plain-text plays into XML files and assisting with their structural annotation.
   - **`cut_into_segments.py`** — script for dividing plays into text segments of approximately 1,000 words.
   - **`tfidf/`** — scripts for TF-IDF analysis.
   - **`z_analysis/`** — scripts for Z-score-based analysis of character speech.
